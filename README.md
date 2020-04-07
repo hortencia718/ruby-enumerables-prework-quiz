@@ -1,8 +1,29 @@
-# Enumerator Quiz
+# Enumerables and Debugging Review
 
-## Learning Goal
+## Learning Goals
 
-Become familiar with using common iterators introduced in the previous lesson.
+- Review the process of debugging code
+- Review common iterators introduced in the previous lessons.
+
+## Introduction
+
+You're nearly to the end of the Ruby Prework content. Congratulations on getting this far! The
+next few labs will require you to apply everything you've learned so far. To help you prepare beforehand,
+this lesson includes both a quiz on Enumerables and a video review on debugging.
+
+## Video Review: Debugging
+
+The video below walks through the process of debugging code with Pry using the upcoming Hashketball
+lab. Although you haven't seen this lab yet, the concepts reviewed are applicable to all of the Ruby labs
+you'll be working on going forward. Check out the previous [Using Pry][] lesson to review Pry further.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uv6fvdKXAnM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Debugging](https://youtu.be/uv6fvdKXAnM)
+
+Try using Pry in the next lab!
+
+[Using Pry]: https://github.com/learn-co-curriculum/reading-errors-and-debugging-using-pry
 
 ???
 
